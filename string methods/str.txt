@@ -1,0 +1,11 @@
+
+1.charAt()
+2.concat()
+3.indexOf()
+4.replace()
+5.slice()
+6.split()
+7.toLowercase()
+8.toUppercase()
+9.lenght()
+10.reverse()
